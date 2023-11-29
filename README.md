@@ -8,7 +8,18 @@ The goal of this repo is to instantiate a basic AI / synthetic biology workflow.
 
  ## Usage
 
- Make sure you have python 3 up and running on your command line. Install various packages with `pip` as needed, for example, `pip install openai`. Define API keys as needed:
+ Make sure you have python 3 up and running on your command line. Install various packages with `pip` as needed, for example, `pip install openai`. 
+
+```shell
+pip3 install pymongo
+pip3 install openai
+pip3 install dotenv
+pip3 install hammingdist
+pip3 install Bio
+```
+
+
+ Define API keys as needed:
 
 
  ```shell

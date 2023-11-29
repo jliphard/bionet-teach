@@ -9,7 +9,7 @@ import os
 import pymongo
 import argparse
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 from langchain.agents import AgentType, initialize_agent, AgentExecutor
 from langchain.memory import ChatMessageHistory, ConversationBufferWindowMemory
