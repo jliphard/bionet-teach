@@ -1,0 +1,17 @@
+Example: Making a Tooth-whitening Enzyme 
+
+To make a tooth whitening product, you can fuse an enamel-binding peptide with a perhydrolase.
+
+The resulting fusion protein will hopefully be retained on the teeth longer than a perhydrolase enzyme only.  
+
+The enamel-binding peptide will bind the tooth enamel and the perhydrolase will whiten the teeth. 
+
+A perhydrolase catalyzes the reversible formation of peracids from carboxylic acids and hydrogen peroxide. The hydrogen peroxide 
+
+Using hydrogen peroxide in a rinse or a paste may help whiten your teeth. But a high concentration may cause side effects, including damaging your teeth.
+
+The customer requires design and production of 50 mg each of the fusion protein and the perhydrolase-only control for evaluation and testing.
+
+The workflow includes contract lab testing of enzyme activity retention after toothbrushing. 
+
+In some use cases, it may not be desirable for affinity purification tags to be added to the fusion protein.
